@@ -1,17 +1,25 @@
-.card > header {
+.card {
   position: relative;
-  padding-top: 28px;
+  padding-bottom: 58px;
 }
 
 .card > header > a {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: auto;
+  right: 28px;
+  bottom: 24px;
+  left: auto;
   padding: 0;
   background: transparent;
   font-size: 12px;
   font-weight: 700;
   line-height: 1.2;
+}
+
+@media (max-width: 600px) {
+  .card > header > a {
+    right: 20px;
+  }
 }
 
 .card > header h1 {
