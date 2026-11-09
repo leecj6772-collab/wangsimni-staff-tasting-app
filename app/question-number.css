@@ -1,0 +1,8 @@
+.q h2 > span {
+  flex: 0 0 27px;
+  width: 27px;
+  height: 27px;
+  min-width: 27px;
+  min-height: 27px;
+  line-height: 1;
+}
