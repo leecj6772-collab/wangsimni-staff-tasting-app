@@ -9,8 +9,8 @@ import "./question-number.css";
 import "./header-emphasis.css";
 
 export const metadata: Metadata = {
-  title: "왕십리본점 직원 시식 평가",
-  description: "신의주찹쌀순대 왕십리본점 직원 시식 평가",
+  title: "왕십리직영점 직원 시식 평가",
+  description: "신의주찹쌀순대 왕십리직영점 직원 시식 평가",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
