@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import "./logo.css";
 import "./readability.css";
+import "./results-distribution.css";
 
 export const metadata: Metadata = {
   title: "왕십리본점 직원 시식 평가",
