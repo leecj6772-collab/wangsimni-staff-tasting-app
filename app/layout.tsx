@@ -3,6 +3,7 @@ import "./globals.css";
 import "./logo.css";
 import "./readability.css";
 import "./results-distribution.css";
+import "./header-layout.css";
 
 export const metadata: Metadata = {
   title: "왕십리본점 직원 시식 평가",
